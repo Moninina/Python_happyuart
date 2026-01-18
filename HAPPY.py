@@ -107,7 +107,7 @@ class MainWindow(QMainWindow):
         layout = QGridLayout()
 
         # Team ID
-        self.team_id_label = QLabel("队伍编号: CICC2848")
+        self.team_id_label = QLabel("队伍编号: CICC888888")
         layout.addWidget(self.team_id_label, 0, 0, 1, 3)
 
         # Port Selection
